@@ -1,2 +1,2 @@
 # cs3451
-spring 2022
+computer graphics - spring 2022
